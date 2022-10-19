@@ -21,4 +21,4 @@ https://app-matmosq.netlify.app/
 
 ## Tela Inicial
 #
-<img src="imagens/tela_inicial.png" alt = "tela inicial app mata mosquito">
+<img src=".github/tela_inicial.png" alt = "tela inicial app mata mosquito">

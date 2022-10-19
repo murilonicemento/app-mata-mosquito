@@ -1,9 +1,9 @@
 html {
-    cursor: url(/imagens/mata_mosquito.png) 30px 30px, auto;
+    cursor: url("/app-mata-mosquito/assets/img/mata_mosquito.png") 30px 30px, auto;
 }
 
 body {
-    background-image: url(/imagens/bg.jpg);
+    background-image: url("/app-mata-mosquito/assets/img/bg.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
